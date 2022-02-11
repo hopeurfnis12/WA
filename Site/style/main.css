@@ -1,0 +1,10 @@
+.main-content {
+	margin-top: 30%;
+	margin-right: 150px;
+	margin-left: 150px;
+	padding: 35px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	background: white;
+	box-shadow: 0 0 10px 0.1px;
+}

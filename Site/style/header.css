@@ -1,0 +1,36 @@
+header {
+	display: inline-flex;
+	width: 100%;
+	padding-top: 10px;
+	background: white;
+}
+
+header img {
+	height: 70px;
+	width: auto;
+}
+
+.header-logo {
+	width: 10%;
+	margin-left: 200px;
+}
+
+.header-menubar {
+	width: 90%;
+	margin-top: 15px;
+	margin-right: 200px;
+	text-align: right;
+}
+
+.header-menubar a {
+	margin-left: 30px;
+	font-size: 20px;
+	color: black;
+}
+
+.header-menubar a:hover {
+	color: #E93B81;
+	border-style: none none solid none;
+	transition: all 0.08s ease;
+
+}

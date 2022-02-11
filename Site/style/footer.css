@@ -1,0 +1,12 @@
+footer {
+	height: 100px;
+	width: 100%;
+	bottom: 0;
+	background: #C9D6DF;
+}
+
+.footer-content {
+	padding-top: 15px;
+	padding-right: 50px;
+	padding-left: 50px;
+}

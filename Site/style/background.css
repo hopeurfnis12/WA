@@ -1,9 +1,9 @@
-* {
-	margin: 0;
-	padding: 0;
+body {
+	background: #F0F5F9;
+	overflow-y: overlay;
 }
 
-body {
-	margin-right: 150px;
-	margin-left: 150px;
+.face {
+	height: 100%;
+	width: 100%;
 }

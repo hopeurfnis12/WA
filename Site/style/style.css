@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+@font-face {
+    font-family: NotoSansJPBold; /* Гарнитура шрифта */
+    src: url("../fonts/NotoSansJP/NotoSansJP-Bold.otf"); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: NotoSansJPThin; /* Гарнитура шрифта */
+    src: url("../fonts/NotoSansJP/NotoSansJP-Thin.otf"); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: NotoSansJPRegular; /* Гарнитура шрифта */
+    src: url("../fonts/NotoSansJP/NotoSansJP-Regular.otf"); /* Путь к файлу со шрифтом */
+}
+
+h1 {
+	font-family: NotoSansJPBold;
+}
+
+p {
+	font-family: NotoSansJPThin;
+}
+
+a {
+	font-family: NotoSansJPRegular;
+}
